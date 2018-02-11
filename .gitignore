@@ -17,3 +17,6 @@
 /yarn-error.log
 
 .byebug_history
+
+#I don't want to add my secrets.yml to git
+/config/secrets.yml
